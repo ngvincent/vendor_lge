@@ -129,6 +129,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/lge/v500/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/lge/v500/proprietary/bin/efsks:system/bin/efsks \
+    vendor/lge/v500/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/lge/v500/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/v500/proprietary/bin/ks:system/bin/ks \
     vendor/lge/v500/proprietary/bin/netmgrd:system/bin/netmgrd \
