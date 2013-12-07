@@ -32,10 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/v500/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
     vendor/lge/v500/proprietary/lib/libidl.so:system/lib/libidl.so \
-    vendor/lge/v500/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
-    vendor/lge/v500/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
-    vendor/lge/v500/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/lge/v500/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/v500/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
     vendor/lge/v500/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
     vendor/lge/v500/proprietary/lib/libmmcamera_hdr_lib.so:system/lib/libmmcamera_hdr_lib.so \
@@ -52,7 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/lge/v500/proprietary/lib/libmorpho_video_denoiser.so:system/lib/libmorpho_video_denoiser.so \
     vendor/lge/v500/proprietary/lib/libHDR.so:system/lib/libHDR.so \
-    vendor/lge/v500/proprietary/lib/libmorpho_jpeg_engine.so:system/lib/libmorpho_jpeg_engine.so \
     vendor/lge/v500/proprietary/lib/libmorpho_image_stab31.so:system/lib/libmorpho_image_stab31.so \
     vendor/lge/v500/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/lge/v500/proprietary/lib/libchromatix_s5k4e5ya_preview.so:system/lib/libchromatix_s5k4e5ya_preview.so \
@@ -126,7 +121,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/lge/v500/proprietary/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
     vendor/lge/v500/proprietary/lib/libtime_genoff.so:system/lib/libtime_genoff.so \
-    vendor/lge/v500/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/lge/v500/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
     vendor/lge/v500/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/v500/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
