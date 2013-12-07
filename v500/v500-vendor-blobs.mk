@@ -33,7 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
     vendor/lge/v500/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/lge/v500/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
-    vendor/lge/v500/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
     vendor/lge/v500/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
     vendor/lge/v500/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/v500/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
