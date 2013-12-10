@@ -123,6 +123,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/libtime_genoff.so:system/lib/libtime_genoff.so \
     vendor/lge/v500/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
     vendor/lge/v500/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
+    vendor/lge/v500/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
     vendor/lge/v500/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/lge/v500/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/lge/v500/proprietary/bin/btnvtool:system/bin/btnvtool \
