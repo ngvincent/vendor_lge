@@ -124,6 +124,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/hw/camera.msm8960.so:system/lib/hw/camera.msm8960.so \
     vendor/lge/v500/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/v500/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
+    vendor/lge/v500/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
     vendor/lge/v500/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/lge/v500/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/lge/v500/proprietary/bin/btnvtool:system/bin/btnvtool \
@@ -163,7 +164,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
     vendor/lge/v500/proprietary/lib/liblgftmitem.so:system/lib/liblgftmitem.so \
     vendor/lge/v500/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
+    vendor/lge/v500/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
+    vendor/lge/v500/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/lge/v500/proprietary/lib/libizat_core.so:system/lib/libizat_core.so \
     vendor/lge/v500/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/lge/v500/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/lge/v500/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/lge/v500/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/lge/v500/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/lge/v500/proprietary/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so \
     vendor/lge/v500/proprietary/lib/libgsl.so:system/lib/libgsl.so
