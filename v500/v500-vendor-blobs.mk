@@ -22,10 +22,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/bin/efsks:system/bin/efsks \
     vendor/lge/v500/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/lge/v500/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
-    vendor/lge/v500/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/lge/v500/proprietary/bin/ks:system/bin/ks \
     vendor/lge/v500/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/lge/v500/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/lge/v500/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/v500/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/v500/proprietary/bin/port-bridge:system/bin/port-bridge \
@@ -39,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
     vendor/lge/v500/proprietary/bin/thermald:system/bin/thermald \
     vendor/lge/v500/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/lge/v500/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/lge/v500/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/lge/v500/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/lge/v500/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
@@ -57,8 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
     vendor/lge/v500/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
     vendor/lge/v500/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
-    vendor/lge/v500/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
-    vendor/lge/v500/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/v500/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/v500/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/lge/v500/proprietary/lib/libAKM.so:system/lib/libAKM.so \
@@ -119,10 +114,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/lib/libgeofence.so:system/lib/libgeofence.so \
     vendor/lge/v500/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/lge/v500/proprietary/lib/libgsl.so:system/lib/libgsl.so \
-    vendor/lge/v500/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/lge/v500/proprietary/lib/libHDR.so:system/lib/libHDR.so \
     vendor/lge/v500/proprietary/lib/libidl.so:system/lib/libidl.so \
-    vendor/lge/v500/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
     vendor/lge/v500/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/lge/v500/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/lge/v500/proprietary/lib/libizat_core.so:system/lib/libizat_core.so \
