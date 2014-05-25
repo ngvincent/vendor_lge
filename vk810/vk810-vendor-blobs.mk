@@ -53,6 +53,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/vk810/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
     vendor/lge/vk810/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
     vendor/lge/vk810/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
+    vendor/lge/vk810/proprietary/lib/hw/sensors.msm8930.so:system/lib/hw/sensors.msm8930.so \
     vendor/lge/vk810/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/vk810/proprietary/lib/libadreno_utils.so:system/lib/libadreno_utils.so \
     vendor/lge/vk810/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
